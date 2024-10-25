@@ -1,15 +1,15 @@
 
-<h1> Projeto-Relogio ⌚</h1>
+<h1> Clock Project ⌚</h1>
 
-Este é um projeto front-end que eu realizei em aula, <br>
-onde de acordo com o horario do dia aparecera o horario, <br>
-imagem e cores correspondentes a este horario. 
+This is a front-end project that I carried out in class, <br>
+where according to the time of day the time will appear, <br>
+image and colors corresponding to this timetable. 
 <br>
-<h2>Como Funciona?</h2>
-A partir do horário do dia, o qual será obtivo atravez da função,<br>
-a tela mudará e exibirá, o horário, a foto e cores diferentes. 
+<h2>How does it work?</h2>
+From the time of day, which will be obtained through the function, <br>
+the screen will change and display the time, photo and different colors.
 <br>
-<h2>Exemplos</h2>
+<h2>Examples</h2>
 <br>
 <img src = "https://github.com/Kivyan/projeto-relogio/blob/master/imagens-README/2023-11-24%20(1).png">
 <br>
